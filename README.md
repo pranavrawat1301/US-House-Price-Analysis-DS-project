@@ -1,5 +1,4 @@
 ## Analyzing Key Factors Influencing U.S. Home Prices
----
 
 ### Project Overview
 
